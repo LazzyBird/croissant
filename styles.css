@@ -2,6 +2,5 @@ body {
 background-color: lightblue;
 }
 img {
-  display: flex;
 max-height: 80%;
 }
