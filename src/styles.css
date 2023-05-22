@@ -1,6 +1,7 @@
 body {
 background-color: lightblue;
 }
-img {
-max-height: 80%;
+.main_img {
+max-width: 80%;
 }
+
