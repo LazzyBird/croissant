@@ -3,4 +3,5 @@ background-color: lightblue;
 }
 img {
   display: flex;
-width: 100%}
+max-height: 80%;
+}
