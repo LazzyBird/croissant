@@ -1,9 +1,5 @@
-body {
-background-color: lightblue;
-}
-.main_img {
-max-width: 50%;
-display: block;
-margin: 0 auto;
-}
-
+.container {
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+  }
+  
